@@ -1,2 +1,0 @@
-# ITD2313
-Itd2313 Summer '23
